@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    background-color: rgb(255, 244, 230);
+}
+h1{
+  color: #300030;
+}
+#flex{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(255, 244, 230) ;
+    
+}
+#card1 {
+     float: left;
+     box-shadow:10px 15px 10px rgba(195, 67, 67, 0.2) ;
+     max-width: 350px;
+     margin:9%;
+     height: 430px;
+     text-align: center;
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     background-color: rgb(223, 250, 249);
+      }
+#card2 {
+     float: left;
+     box-shadow: 10px 15px 10px rgba(195, 67, 67, 0.2) ;   
+     max-width: 350px;
+     margin: auto;
+     height: 430px;
+     text-align: center;
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     background-color:  rgb(223, 250, 249);
+      }
+      #card3 {
+        float: left;
+        box-shadow: 10px 15px 10px rgba(195, 67, 67, 0.2) ;   
+        max-width: 350px;
+        margin: 9%;
+        height: 430px;
+        text-align: center;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color:  rgb(223, 250, 249);
+      }
+button{
+  color: rgb(24, 31, 37);
+  background-color: rgb(215, 207, 209);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
